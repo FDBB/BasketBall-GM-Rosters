@@ -457,7 +457,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
-"name":"Terry Rozier",
+"name":"Terry Rozier III",
 "ratings":[{"hgt":30,"stre":38,"spd":74,"jmp":75,"endu":61,"ins":39,"dnk":72,"ft":53,"fg":67,"tp":72,"diq":40,"oiq":55,"drb":73,"pss":54,"reb":73,"pot":63,"skills":[]}],
 "pos":"PG","hgt":74,"weight":190,
 "born":{"year":1994,"loc":"Cleveland, OH"},
@@ -680,7 +680,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
-"name":"Kelly Oubre",
+"name":"Kelly Oubre Jr.",
 "ratings":[{"hgt":48,"stre":37,"spd":70,"jmp":71,"endu":60,"ins":42,"dnk":64,"ft":62,"fg":66,"tp":66,"diq":48,"oiq":60,"drb":33,"pss":34,"reb":62,"pot":62,"skills":[]}],
 "pos":"SF","hgt":79,"weight":205,
 "born":{"year":1996,"loc":"Fort Bend, TX"},
@@ -1044,7 +1044,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":0,
-"name":"Dennis Schroder",
+"name":"Dennis Schröder",
 "ratings":[{"hgt":26,"stre":19,"spd":92,"jmp":78,"endu":80,"ins":33,"dnk":78,"ft":66,"fg":77,"tp":52,"diq":40,"oiq":62,"drb":82,"pss":53,"reb":40,"pot":63,"skills":[]}],
 "pos":"PG","hgt":73,"weight":172,
 "born":{"year":1994,"loc":"Braunschweig, Germany"},
@@ -3852,7 +3852,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":6,
-"name":"Dennis Smith",
+"name":"Dennis Smith Jr.",
 "ratings":[{"hgt":30,"stre":20,"spd":91,"jmp":92,"endu":51,"ins":50,"dnk":82,"ft":42,"fg":57,"tp":41,"diq":40,"oiq":45,"drb":77,"pss":78,"reb":45,"pot":72,"skills":[]}],
 "pos":"PG","hgt":74,"weight":180,
 "born":{"year":1998,"loc":"Fayetteville, NC"},
@@ -4663,7 +4663,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
-"name":"Marvin Bagley",
+"name":"Marvin Bagley III",
 "ratings":[{"hgt":65,"stre":62,"spd":66,"jmp":79,"endu":60,"ins":70,"dnk":71,"ft":31,"fg":45,"tp":20,"diq":38,"oiq":60,"drb":25,"pss":34,"reb":74,"pot":72,"skills":[]}],
 "pos":"PF","hgt":83,"weight":225,
 "born":{"year":1999,"loc":"Phoenix, AZ"},
@@ -5258,7 +5258,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":0,
-"name":"Andrew White",
+"name":"Andrew White III",
 "ratings":[{"hgt":48,"stre":16,"spd":72,"jmp":66,"endu":42,"ins":20,"dnk":63,"ft":0,"fg":55,"tp":66,"diq":17,"oiq":44,"drb":57,"pss":35,"reb":52,"pot":49,"skills":[]}],
 "pos":"SG","hgt":79,"weight":210,
 "born":{"year":1993,"loc":"Richmond, VA"},
@@ -5498,7 +5498,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
-"name":"Robert Williams",
+"name":"Robert Williams III",
 "ratings":[{"hgt":56,"stre":71,"spd":56,"jmp":70,"endu":62,"ins":66,"dnk":75,"ft":50,"fg":59,"tp":0,"diq":63,"oiq":50,"drb":30,"pss":37,"reb":60,"pot":55,"skills":[]}],
 "pos":"PF","hgt":81,"weight":235,
 "born":{"year":1997,"loc":"Shreveport, LA"},
@@ -5688,7 +5688,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
-"name":"Wendell Carter",
+"name":"Wendell Carter Jr.",
 "pos":"FC","hgt":82,"weight":251,
 "born":{"year":1999,"loc":"Fairburn, GA"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/recruiting/ncb/players/full/187804.png",
@@ -5943,7 +5943,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
-"name":"Otto Porter",
+"name":"Otto Porter Jr.",
 "ratings":[{"hgt":58,"stre":43,"spd":65,"jmp":71,"endu":74,"ins":51,"dnk":65,"ft":63,"fg":65,"tp":78,"diq":40,"oiq":58,"drb":45,"pss":59,"reb":50,"pot":67,"skills":["Dp"]}],
 "pos":"SF","hgt":81,"weight":198,
 "born":{"year":1993,"loc":"St. Louis, MO"},
@@ -6129,7 +6129,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":10,
-"firstName":"","lastName":"Nene",
+"firstName":"","lastName":"Nenê",
 "ratings":[{"hgt":66,"stre":92,"spd":50,"jmp":49,"endu":43,"ins":79,"dnk":70,"ft":30,"fg":55,"tp":8,"diq":63,"oiq":63,"drb":34,"pss":48,"reb":70,"pot":57,"skills":["Di","Po"]}],
 "pos":"FC","hgt":83,"weight":250,
 "born":{"year":1982,"loc":"Sao Carlos, Brazil"},
@@ -7001,7 +7001,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":7,
-"name":"Michael Porter",
+"name":"Michael Porter Jr.",
 "ratings":[{"hgt":60,"stre":46,"spd":70,"jmp":75,"endu":34,"ins":50,"dnk":65,"ft":60,"fg":77,"tp":72,"diq":45,"oiq":46,"drb":43,"pss":39,"reb":50,"pot":63,"skills":[]}],
 "pos":"SF","hgt":82,"weight":215,
 "born":{"year":1998,"loc":"Columbia, MO"},
@@ -8581,7 +8581,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
-"name":"Guillermo Hernangomez",
+"name":"Willy Hernangomez",
 "ratings":[{"hgt":65,"stre":58,"spd":56,"jmp":63,"endu":58,"ins":68,"dnk":66,"ft":33,"fg":32,"tp":20,"diq":48,"oiq":47,"drb":23,"pss":23,"reb":78,"pot":56,"skills":[]}],
 "pos":"C","hgt":83,"weight":240,
 "born":{"year":1994,"loc":"Madrid, Spain"},
@@ -8649,7 +8649,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
-"name":"Frank Kaminsky",
+"name":"Frank Kaminsky III",
 "pos":"C","hgt":84,"weight":240,
 "born":{"year":1993,"loc":"Lisle, IL"},
 "imgURL":"http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2579294.png&w=350&h=254",
@@ -8715,7 +8715,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":0,
-"name":"DeAndre Bembry",
+"name":"DeAndre' Bembry",
 "ratings":[{"hgt":43,"stre":44,"spd":66,"jmp":70,"endu":51,"ins":28,"dnk":58,"ft":25,"fg":52,"tp":50,"diq":11,"oiq":46,"drb":55,"pss":52,"reb":35,"pot":56,"skills":[]}],
 "pos":"GF","hgt":78,"weight":210,
 "born":{"year":1994,"loc":"Charlotte, NC"},
@@ -9546,7 +9546,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":14,
-"name":"Wayne Selden",
+"name":"Wayne Selden Jr.",
 "ratings":[{"hgt":40,"stre":39,"spd":68,"jmp":79,"endu":57,"ins":28,"dnk":58,"ft":50,"fg":56,"tp":64,"diq":38,"oiq":55,"drb":34,"pss":42,"reb":26,"pot":54,"skills":[]}],
 "pos":"SG","hgt":77,"weight":230,
 "born":{"year":1994,"loc":"Boston, MA"},
