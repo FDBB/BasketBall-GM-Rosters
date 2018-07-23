@@ -9932,12 +9932,12 @@
 {"tid":29,"originalTid":29,"round":2,"pick":0,"season":2022,"dpid":239}],
 
 "gameAttributes":[
-{"key":"luxuryPayroll","value":123000},
+{"key":"luxuryPayroll","value":123.733},
 {"key":"luxuryTax","value":1.5},
-{"key":"maxContract","value":30000},
-{"key":"minContract","value":850},
-{"key":"minPayroll","value":89000},
-{"key":"salaryCap","value":101000},
+{"key":"maxContract","value":45.780966},
+{"key":"minContract","value":.092857},
+{"key":"minPayroll","value":91.682},
+{"key":"salaryCap","value":101.869},
 {"key":"maxRosterSize","value":17}
 ]
 
