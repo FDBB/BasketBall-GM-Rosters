@@ -70,7 +70,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Johnny O'Bryant",
+"name":"Johnny O'Bryant III",
 "pos":"PF","hgt":81,"weight":257,
 "born":{"year":1993,"loc":"Cleveland, MS"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203948.png",
@@ -457,7 +457,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
-"name":"Terry Rozier",
+"name":"Terry Rozier III",
 "ratings":[{"hgt":30,"stre":38,"spd":63,"jmp":75,"endu":61,"ins":39,"dnk":72,"ft":53,"fg":67,"tp":72,"diq":40,"oiq":55,"drb":73,"pss":54,"reb":73}],
 "pos":"PG","hgt":74,"weight":190,
 "born":{"year":1994,"loc":"Cleveland, OH"},
@@ -680,7 +680,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
-"name":"Kelly Oubre",
+"name":"Kelly Oubre Jr.",
 "ratings":[{"hgt":48,"stre":37,"spd":60,"jmp":71,"endu":68,"ins":42,"dnk":64,"ft":62,"fg":66,"tp":66,"diq":48,"oiq":62,"drb":33,"pss":38,"reb":62}],
 "pos":"SF","hgt":79,"weight":205,
 "born":{"year":1996,"loc":"Fort Bend, TX"},
@@ -901,7 +901,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Tyler Ennis",
+"name":"Tyler Ennis III",
 "ratings":[{"hgt":30,"stre":28,"spd":62,"jmp":42,"endu":60,"ins":20,"dnk":30,"ft":70,"fg":60,"tp":49,"diq":36,"oiq":41,"drb":74,"pss":60,"reb":34}],
 "pos":"PG","hgt":74,"weight":194,
 "born":{"year":1995,"loc":"Brampton, Canada"},
@@ -979,7 +979,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":28,
-"name":"Dante Exum",
+"name":"Danté Exum",
 "ratings":[{"hgt":45,"stre":30,"spd":66,"jmp":68,"endu":55,"ins":43,"dnk":70,"ft":70,"fg":48,"tp":58,"diq":36,"oiq":48,"drb":51,"pss":44,"reb":28}],
 "pos":"PG","hgt":78,"weight":190,
 "born":{"year":1996,"loc":"Melbourne, Australia"},
@@ -1046,7 +1046,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":20,
-"name":"Dennis Schroder",
+"name":"Dennis Schröder",
 "ratings":[{"hgt":26,"stre":25,"spd":77,"jmp":78,"endu":80,"ins":33,"dnk":78,"ft":66,"fg":77,"tp":46,"diq":35,"oiq":62,"drb":68,"pss":59,"reb":40}],
 "pos":"PG","hgt":73,"weight":172,
 "born":{"year":1994,"loc":"Braunschweig, Germany"},
@@ -1549,7 +1549,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Gerald Henderson",
+"name":"Gerald Henderson Jr.",
 "ratings":[{"hgt":41,"stre":33,"spd":53,"jmp":54,"endu":52,"ins":43,"dnk":65,"ft":55,"fg":66,"tp":60,"diq":41,"oiq":55,"drb":43,"pss":29,"reb":26}],
 "pos":"SG","hgt":77,"weight":215,
 "born":{"year":1988,"loc":"Caldwell, NJ"},
@@ -1771,7 +1771,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Mike Dunleavy",
+"name":"Mike Dunleavy Jr.",
 "pos":"GF","hgt":81,"weight":230,
 "born":{"year":1981,"loc":"Fort Worth, TX"},
 "imgURL":"http://stats.nba.com/media/players/230x185/2399.png",
@@ -2650,7 +2650,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
-"name":"Harry Giles",
+"name":"Harry Giles III",
 "ratings":[{"hgt":60,"stre":68,"spd":55,"jmp":75,"endu":34,"ins":52,"dnk":41,"ft":62,"fg":49,"tp":0,"diq":47,"oiq":55,"drb":24,"pss":34,"reb":52}],
 "pos":"PF","hgt":82,"weight":230,
 "born":{"year":1998,"loc":"Winston-Salem, NC"},
@@ -3419,7 +3419,7 @@
 
 {"tid":6,
 "name":"Luka Doncic",
-"ratings":[{"hgt":55,"stre":29,"spd":52,"jmp":62,"endu":58,"ins":36,"dnk":68,"ft":68,"fg":64,"tp":52,"diq":25,"oiq":63,"drb":66,"pss":62,"reb":43}],
+"ratings":[{"hgt":55,"stre":100,"spd":100,"jmp":100,"endu":100,"ins":100,"dnk":100,"ft":100,"fg":100,"tp":100,"diq":100,"oiq":100,"drb":100,"pss":100,"reb":100}],
 "pos":"SG","hgt":80,"weight":185,
 "born":{"year":1999,"loc":"Ljubjana, Slovenia"},
 "imgURL":"http://i.imgur.com/43sGi7m.png",
@@ -3767,7 +3767,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":24,
-"name":"Wade Baldwin",
+"name":"Wade Baldwin IV",
 "ratings":[{"hgt":33,"stre":50,"spd":62,"jmp":74,"endu":56,"ins":21,"dnk":57,"ft":50,"fg":56,"tp":60,"diq":24,"oiq":34,"drb":63,"pss":61,"reb":31}],
 "pos":"G","hgt":75,"weight":202,
 "born":{"year":1996,"loc":"Metuchen, NJ"},
@@ -3855,7 +3855,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":6,
-"name":"Dennis Smith",
+"name":"Dennis Smith Jr.",
 "ratings":[{"hgt":30,"stre":20,"spd":83,"jmp":92,"endu":51,"ins":50,"dnk":82,"ft":42,"fg":57,"tp":41,"diq":40,"oiq":45,"drb":77,"pss":78,"reb":45}],
 "pos":"PG","hgt":74,"weight":180,
 "born":{"year":1998,"loc":"Fayetteville, NC"},
@@ -4668,7 +4668,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":25,
-"name":"Marvin Bagley",
+"name":"Marvin Bagley III",
 "ratings":[{"hgt":65,"stre":62,"spd":56,"jmp":79,"endu":60,"ins":70,"dnk":71,"ft":31,"fg":45,"tp":20,"diq":38,"oiq":60,"drb":25,"pss":34,"reb":74}],
 "pos":"PF","hgt":83,"weight":225,
 "born":{"year":1999,"loc":"Phoenix, AZ"},
@@ -4968,7 +4968,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
-"name":"Marcus Morris",
+"name":"Marcus Morris Sr.",
 "ratings":[{"hgt":57,"stre":66,"spd":54,"jmp":61,"endu":64,"ins":68,"dnk":69,"ft":69,"fg":70,"tp":59,"diq":40,"oiq":55,"drb":30,"pss":36,"reb":52}],
 "pos":"F","hgt":81,"weight":235,
 "born":{"year":1990,"loc":"Philadelphia, PA"},
@@ -5013,7 +5013,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":15,
-"name":"Goran Dragic",
+"name":"Goran Dragić",
 "ratings":[{"hgt":35,"stre":39,"spd":69,"jmp":65,"endu":78,"ins":42,"dnk":86,"ft":59,"fg":85,"tp":62,"diq":36,"oiq":62,"drb":77,"pss":52,"reb":44}],
 "pos":"PG","hgt":75,"weight":190,
 "born":{"year":1986,"loc":"Ljubljana, Slovenia"},
@@ -5263,7 +5263,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Andrew White",
+"name":"Andrew White III",
 "ratings":[{"hgt":48,"stre":16,"spd":61,"jmp":66,"endu":42,"ins":20,"dnk":63,"ft":0,"fg":55,"tp":66,"diq":17,"oiq":44,"drb":57,"pss":35,"reb":52}],
 "pos":"SG","hgt":79,"weight":210,
 "born":{"year":1994,"loc":"Richmond, VA"},
@@ -5505,7 +5505,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":1,
-"name":"Robert Williams",
+"name":"Robert Williams III",
 "ratings":[{"hgt":56,"stre":71,"spd":51,"jmp":70,"endu":62,"ins":70,"dnk":75,"ft":50,"fg":59,"tp":15,"diq":44,"oiq":35,"drb":30,"pss":37,"reb":60}],
 "pos":"PF","hgt":81,"weight":235,
 "born":{"year":1998,"loc":"Shreveport, LA"},
@@ -5695,7 +5695,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":4,
-"name":"Wendell Carter",
+"name":"Wendell Carter Jr.",
 "pos":"FC","hgt":82,"weight":251,
 "born":{"year":1999,"loc":"Fairburn, GA"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
@@ -5795,7 +5795,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":19,
-"name":"Trey Burke",
+"name":"Trey Burke III",
 "ratings":[{"hgt":25,"stre":18,"spd":61,"jmp":67,"endu":61,"ins":23,"dnk":65,"ft":31,"fg":64,"tp":60,"diq":29,"oiq":54,"drb":63,"pss":55,"reb":13}],
 "pos":"PG","hgt":73,"weight":191,
 "born":{"year":1993,"loc":"Columbus, OH"},
@@ -5806,7 +5806,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"firstName":"Matt","lastName":"Williams Jr",
+"firstName":"Matt","lastName":"Williams Jr.",
 "ratings":[{"hgt":36,"stre":16,"spd":50,"jmp":26,"endu":50,"ins":28,"dnk":23,"ft":34,"fg":61,"tp":73,"diq":19,"oiq":34,"drb":42,"pss":45,"reb":20}],
 "pos":"PG","hgt":76,"weight":190,
 "born":{"year":1994,"loc":"Orlando, FL"},
@@ -5927,7 +5927,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
-"name":"Zoran Dragic",
+"name":"Zoran Dragić",
 "ratings":[{"hgt":38,"stre":28,"spd":56,"jmp":55,"endu":55,"ins":39,"dnk":29,"ft":60,"fg":63,"tp":53,"diq":18,"oiq":39,"drb":61,"pss":59,"reb":29}],
 "pos":"GF","hgt":77,"weight":200,
 "born":{"year":1990,"loc":"Ljubljana, Slovenia"},
@@ -5950,7 +5950,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":29,
-"name":"Otto Porter",
+"name":"Otto Porter Jr.",
 "ratings":[{"hgt":58,"stre":46,"spd":61,"jmp":62,"endu":77,"ins":60,"dnk":65,"ft":63,"fg":65,"tp":71,"diq":40,"oiq":58,"drb":45,"pss":59,"reb":54}],
 "pos":"SF","hgt":81,"weight":198,
 "born":{"year":1993,"loc":"St. Louis, MO"},
@@ -6887,7 +6887,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-2,
-"name":"Cam Reddish",
+"name":"Cameron Reddish",
 "ratings":[{"hgt":55,"stre":36,"spd":61,"jmp":68,"endu":41,"ins":28,"dnk":80,"ft":43,"fg":39,"tp":48,"diq":50,"oiq":44,"drb":48,"pss":58,"reb":56}],
 "pos":"SF","hgt":80,"weight":205,
 "born":{"year":2000,"loc":"Norristown, PA"},
@@ -7009,7 +7009,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":7,
-"name":"Michael Porter",
+"name":"Michael Porter Jr.",
 "ratings":[{"hgt":60,"stre":46,"spd":60,"jmp":75,"endu":34,"ins":50,"dnk":65,"ft":60,"fg":77,"tp":72,"diq":45,"oiq":46,"drb":43,"pss":39,"reb":50}],
 "pos":"SF","hgt":82,"weight":215,
 "born":{"year":1999,"loc":"Columbia, MO"},
@@ -7232,7 +7232,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":26,
-"name":"Lonnie Walker",
+"name":"Lonnie Walker IV",
 "ratings":[{"hgt":42,"stre":28,"spd":63,"jmp":76,"endu":55,"ins":25,"dnk":56,"ft":47,"fg":63,"tp":56,"diq":39,"oiq":52,"drb":44,"pss":29,"reb":42}],
 "pos":"SG","hgt":77,"weight":196,
 "born":{"year":1999,"loc":"Reading, PA"},
@@ -7506,7 +7506,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":8,
-"firstName":"Bruce","lastName":"Brown Jr",
+"firstName":"Bruce","lastName":"Brown Jr.",
 "ratings":[{"hgt":40,"stre":35,"spd":70,"jmp":57,"endu":46,"ins":21,"dnk":35,"ft":62,"fg":45,"tp":70,"diq":15,"oiq":42,"drb":73,"pss":45,"reb":25}],
 "pos":"SG","hgt":77,"weight":190,
 "born":{"year":1997,"loc":"Boston, MS"},
@@ -9564,7 +9564,7 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":14,
-"name":"Wayne Selden",
+"name":"Wayne Selden Jr.",
 "ratings":[{"hgt":40,"stre":39,"spd":58,"jmp":79,"endu":57,"ins":28,"dnk":58,"ft":50,"fg":56,"tp":64,"diq":38,"oiq":55,"drb":34,"pss":42,"reb":26}],
 "pos":"SG","hgt":77,"weight":230,
 "born":{"year":1995,"loc":"Boston, MA"},
