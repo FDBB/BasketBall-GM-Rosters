@@ -66,7 +66,7 @@
 "contract":{"amount":1600,"exp":2019},
 "draft":{"round":1,"pick":30,"tid":9,"originalTid":9,"year":2015},
 "college":"UCLA",
-"ratings":[{"hgt":56,"stre":54,"spd":44,"jmp":50,"endu":46,"ins":41,"dnk":66,"ft":7,"fg":51,"tp":20,"diq":45,"oiq":46,"drb":32,"pss":30,"reb":58}],
+"ratings":[{"hgt":56,"stre":54,"spd":44lu,"jmp":50,"endu":46,"ins":41,"dnk":66,"ft":7,"fg":51,"tp":20,"diq":45,"oiq":46,"drb":32,"pss":30,"reb":58}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -1395,8 +1395,7 @@
 "name":"Alan Anderson",
 "ratings":[{"hgt":44,"stre":28,"spd":48,"jmp":49,"endu":62,"ins":20,"dnk":38,"ft":57,"fg":65,"tp":60,"diq":32,"oiq":45,"drb":41,"pss":39,"reb":25}],
 "pos":"GF","hgt":78,"weight":220,
-"born":{"year":1983,"loc":"Minneapolis, MN"},
-"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101187.png",
+1"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101187.png",
 "contract":{"amount":1315,"exp":2017},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2010},
 "college":"Michigan State",
@@ -3419,7 +3418,7 @@
 
 {"tid":6,
 "name":"Luka Doncic",
-"ratings":[{"hgt":55,"stre":100,"spd":100,"jmp":100,"endu":100,"ins":100,"dnk":100,"ft":100,"fg":100,"tp":100,"diq":100,"oiq":100,"drb":100,"pss":100,"reb":100}],
+"ratings":[{"hgt":50,"stre":100,"spd":100,"jmp":100,"endu":100,"ins":100,"dnk":100,"ft":100,"fg":100,"tp":100,"diq":100,"oiq":100,"drb":100,"pss":100,"reb":100}],
 "pos":"SG","hgt":80,"weight":185,
 "born":{"year":1999,"loc":"Ljubjana, Slovenia"},
 "imgURL":"http://i.imgur.com/43sGi7m.png",
@@ -3856,7 +3855,7 @@
 
 {"tid":6,
 "name":"Dennis Smith Jr.",
-"ratings":[{"hgt":30,"stre":20,"spd":83,"jmp":92,"endu":51,"ins":50,"dnk":82,"ft":42,"fg":57,"tp":41,"diq":40,"oiq":45,"drb":77,"pss":78,"reb":45}],
+"ratings":[{"hgt":50,"stre":50,"spd":75,"jmp":75,"endu":50,"ins":50,"dnk":75,"ft":50,"fg":50,"tp":50,"diq":50,"oiq":50,"drb":75,"pss":75,"reb":50}],
 "pos":"PG","hgt":74,"weight":180,
 "born":{"year":1998,"loc":"Fayetteville, NC"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628372.png",
